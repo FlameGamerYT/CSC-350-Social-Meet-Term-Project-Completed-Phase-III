@@ -2,6 +2,8 @@
 2023 Spring Term (1) Software Development CSC 350 5000[10297] (Borough of Manhattan CC) Phase III: Final Project Submission. Complete
 CSC 350 Social Term Project Completed version completed version of social meet term project for csc 350 Social Media Project
 
+Made by Farouk Abdel Rahman
+
 Social Meet is a term project for CSC 350, it is a simple messaging/social media website used to help people communicate with one another.
 
 ----- IT IS REQUIRED TO IMPORT THE DATABASE 'socialmeet.sql' OR ELSE NONE OF THE CODE WILL FUNCTION. -----

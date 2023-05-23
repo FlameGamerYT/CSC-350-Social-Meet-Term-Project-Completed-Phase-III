@@ -18,4 +18,4 @@ Copy the socialmeet.sql file to your computer. Start the XAMPP Control Panel on 
 
 Enter your MySQL password when prompted. After running this command, the socialmeet database and its tables should be imported into your XAMPP MySQL server and the code should function as intended.
 
-To access you need to keep XAMPP open with the MySQL server running, and you can access through the following link: http://localhost/socialmeet/login.php
+To access you need to keep XAMPP open with the MySQL server running, and you can access through the following link: http://localhost/login.php
